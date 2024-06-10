@@ -12,6 +12,4 @@ Those dataframes can then be processed through Power BI to showcase my current D
 2) Run ANZ mini.py 
 
 ## Power BI dashboard
-Note: You will need a Power BI account in order to open the dashboard
-
-[Dashboard link](https://app.powerbi.com/links/nKUCt7PNjr?ctid=a1b03033-8a3d-4443-a90b-0f3298ffbf90&pbi_source=linkShare)
+1) Run Candidate Survey Report.pbix
